@@ -1,0 +1,27 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-HelloWorld<hello-world_1122378e>",
+      "request": "launch",
+      "mainClass": "algorithm.HelloWorld",
+      "projectName": "hello-world_1122378e"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-KthLargest<hello-world_1122378e>",
+      "request": "launch",
+      "mainClass": "algorithm.heap.KthLargest",
+      "projectName": "hello-world_1122378e"
+    }
+  ]
+}
